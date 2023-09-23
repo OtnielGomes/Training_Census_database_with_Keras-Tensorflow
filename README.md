@@ -6,7 +6,6 @@ Database that considers several factors such as: profession, location, hours wor
 
 ### 📋 Prerequisites
 
-De que coisas você precisa para instalar o software e como instalá-lo?
 * [Anaconda-Navigator](https://www.anaconda.com/)
 ```
 * Jupyter notebook - is part of anaconda
