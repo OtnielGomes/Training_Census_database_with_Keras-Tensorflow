@@ -20,14 +20,14 @@ Database that considers several factors such as: profession, location, hours wor
 ### Then run the note book:
 1_Classifying_income:
 
-### Note:  two environments were used for this project, one environment for preprocessing and another for classification, due to some incompatibilities with keras x SMOTE.
+### Note:  two environments were used for this project, one environment for preprocessing and another for classification, due to some incompatibilities with keras x TomekLinks.
 
 ## 🛠️ Frameworks  
 
 * Pandas
 * Numpy
 * Matplotlib
-* SMOTE
+* TomekLinks
 * Pickle
 * Sklearn
 * Keras
